@@ -1,0 +1,893 @@
+1614651001995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileDggUzT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614651016921	Marionette	INFO	Listening on port 50724
+1614651017792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profileconsole.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+ directory.
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614651129569	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofile8VVXZY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614651137852	Marionette	INFO	Listening on port 50894
+1614651137943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614651156431	Marionette	INFO	Stopped listening on port 50894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614651503610	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileLIkqRw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614651510843	Marionette	INFO	Listening on port 51162
+1614651511098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/info/1056/7966.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614651532671	Marionette	INFO	Stopped listening on port 51162
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614651586015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileuOZVM9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614651596876	Marionette	INFO	Listening on port 51239
+1614651597171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614651665079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileoc1JEe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614651673403	Marionette	INFO	Listening on port 51350
+1614651673471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614652213992	Marionette	INFO	Stopped listening on port 51350
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614652194108	Marionette	INFO	Listening on port 52107
+1614652195020	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614652213781	Marionette	INFO	Stopped listening on port 52107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614652856765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofile4rrCEs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614652862846	Marionette	INFO	Listening on port 52560
+1614652863054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614652954227	Marionette	INFO	Stopped listening on port 52560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614652975058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilejO5dPS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614652980662	Marionette	INFO	Listening on port 52665
+1614652980851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614653167387	Marionette	INFO	Stopped listening on port 52665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614653080414	Marionette	INFO	Listening on port 52781
+1614653080694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614653167232	Marionette	INFO	Stopped listening on port 52781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614653119321	Marionette	INFO	Listening on port 52856
+1614653119623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614653167860	Marionette	INFO	Stopped listening on port 52856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614653148792	Marionette	INFO	Listening on port 52928
+1614653148846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614653552986	Marionette	INFO	Stopped listening on port 52928
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614653556614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilegw5gD6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614653565303	Marionette	INFO	Listening on port 53270
+1614653565592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614653780836	Marionette	INFO	Stopped listening on port 53270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614653600842	Marionette	INFO	Listening on port 53343
+1614653601142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/info/1056/6411.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/info/1056/3373.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614653778972	Marionette	INFO	Stopped listening on port 53343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614654322043	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilerWwwLf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614654328226	Marionette	INFO	Listening on port 53852
+1614654328336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614654388804	Marionette	INFO	Stopped listening on port 53852
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614654396232	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilecgBFts"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614654402368	Marionette	INFO	Listening on port 53934
+1614654402533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614654507806	Marionette	INFO	Stopped listening on port 53934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614654562909	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofile87KMaZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614654569196	Marionette	INFO	Listening on port 54075
+1614654569304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655214955	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655306441	Marionette	INFO	Stopped listening on port 54075
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614655291757	Marionette	INFO	Stopped listening on port 54229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614654967536	Marionette	INFO	Listening on port 54484
+1614654967983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655015923	Marionette	INFO	Stopped listening on port 54484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614655138721	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileDMgOFd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614655145778	Marionette	INFO	Listening on port 54674
+1614655146142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614655291271	Marionette	INFO	Stopped listening on port 54674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614655324575	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofile9Q24SH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614655331511	Marionette	INFO	Listening on port 54900
+1614655332005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655748459	Marionette	INFO	Stopped listening on port 54900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614655458260	Marionette	INFO	Listening on port 55024
+1614655458285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655749590	Marionette	INFO	Stopped listening on port 55024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel eCan't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614655757330	Marionette	INFO	Listening on port 55286
+1614655757849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614655892471	Marionette	INFO	Stopped listening on port 55286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614655901876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileNFjJH0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614655908059	Marionette	INFO	Listening on port 55394
+1614655908543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614656142036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileZoG9Zh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656148253	Marionette	INFO	Listening on port 55544
+1614656148326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/info/1056/6411.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614656531990	Marionette	INFO	Stopped listening on port 55544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656344611	Marionette	INFO	Listening on port 55688
+1614656344896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614656529846	Marionette	INFO	Stopped listening on port 55688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656396476	Marionette	INFO	Listening on port 55760
+1614656396763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614656533767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileCbAUrS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656543468	Marionette	INFO	Listening on port 55942
+1614656543765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614656662781	Marionette	INFO	Stopped listening on port 55942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614656667114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileIiKqM5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656674816	Marionette	INFO	Listening on port 56056
+1614656675021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614656885819	Marionette	INFO	Stopped listening on port 56056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656715054	Marionette	INFO	Listening on port 56130
+1614656715537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1614656885938	Marionette	INFO	Stopped listening on port 56130
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel eCan't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614656891516	Marionette	INFO	Listening on port 56337
+1614656891692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child2/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:154:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\ndestroy@resource://devtools/shared/protocol/Front.js:65:11\ndestroy@resource://devtools/client/fronts/inspector.js:104:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:657:17\n", "resource://devtools/shared/protocol/Front.js", 98))
+JavaScript error: resource://devtools/client/inspector/flexbox/flexbox.js, line 55: TypeError: this.inspector is null
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 104: TypeError: this.inspector is null
+1614657527332	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1614663166873	Marionette	INFO	Stopped listening on port 56337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614657022078	Marionette	INFO	Listening on port 56457
+1614657022573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614657667658	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+[Child 31804, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1614663164179	Marionette	INFO	Stopped listening on port 56457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on port 56565
+1614657087384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/info/1056/6538.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1614657723968	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1614663162187	Marionette	INFO	Stopped listening on port 56565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614665239188	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileR6C0xt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614665248562	Marionette	INFO	Listening on port 59930
+1614665248857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614665290249	Marionette	INFO	Stopped listening on port 59930
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614665447002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileyXkig7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614665455473	Marionette	INFO	Listening on port 60057
+1614665455990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614665488394	Marionette	INFO	Stopped listening on port 60057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614665550913	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileKquciO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614665557491	Marionette	INFO	Listening on port 60150
+1614665557797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614665591553	Marionette	INFO	Stopped listening on port 60150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614667249777	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofiletFeizK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614667258997	Marionette	INFO	Listening on port 60602
+1614667259323	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614667394595	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilePbetEW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614667401941	Marionette	INFO	Listening on port 60698
+1614667402044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614668169292	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1614668171169	Marionette	INFO	Stopped listening on port 60698
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ file exists, new profile?" (new Error("", "(unknown module)"))
+1614667619940	Marionette	INFO	Listening on port 60869
+1614667620430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614668170273	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1614668171648	Marionette	INFO	Stopped listening on port 60869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ing on port 60980
+1614667710463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614668280765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilec2wuD3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614668287787	Marionette	INFO	Listening on port 61339
+1614668288126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614668423801	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilepswcMT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614668429289	Marionette	INFO	Listening on port 61418
+1614668429594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Child 27864, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 27864, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1614669104021	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1614669104870	Marionette	INFO	Stopped listening on port 61418
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614669377899	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilePMOlol"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614669384130	Marionette	INFO	Listening on port 61820
+1614669384204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614669637682	Marionette	INFO	Stopped listening on port 61820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614669915251	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileHCTbRV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614669923743	Marionette	INFO	Listening on port 62178
+1614669924233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+Jconsole.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+avaconsole.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Script error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614670116358	Marionette	INFO	Stopped listening on port 62178
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670028452	Marionette	INFO	Listening on port 62307
+1614670028750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614670118721	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilelmBD6j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670126751	Marionette	INFO	Listening on port 62453
+1614670127142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/9.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/8.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/7.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/6.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/5.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/4.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/3.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/2.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs/1.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+1614670459160	Marionette	INFO	Stopped listening on port 62453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670281080	Marionette	INFO	Listening on port 62606
+1614670281326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614670461330	Marionette	INFO	Stopped listening on port 62606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670383603	Marionette	INFO	Listening on port 62746
+1614670384051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 31676, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1614670463343	Marionette	INFO	Stopped listening on port 62746
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670460636	Marionette	INFO	Listening on port 62898
+1614670461102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614670561095	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilelnO9vV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670568302	Marionette	INFO	Listening on port 63077
+1614670568481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614670738400	Marionette	INFO	Stopped listening on port 63077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614670742047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofilepGeTcV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670749453	Marionette	INFO	Listening on port 63259
+1614670749961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614670873133	Marionette	INFO	Stopped listening on port 63259
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614670877094	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofile1neYuB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614670884409	Marionette	INFO	Listening on port 63373
+1614670884520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614671399551	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1614671400799	Marionette	INFO	Stopped listening on port 63373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614671404974	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\56833\\AppData\\Local\\Temp\\rust_mozprofileLdSXzl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614671411016	Marionette	INFO	Listening on port 63707
+1614671411287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gs.whu.edu.cn/tzgg/zs.htm, line 298: SyntaxError: unexpected token: keyword 'var'
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614672139599	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1614672426797	Marionette	INFO	Stopped listening on port 63707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
